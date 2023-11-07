@@ -47,4 +47,4 @@ def load_video(path_of_video):
 if __name__ == "__main__":
     videofile = r"/Users/Amjad/Downloads/WhatsApp Video 2023-09-19 at 4.22.33 PM.mp4"
     load_video(videofile)
-    # it is done
+    # video will display on the screen
